@@ -7,7 +7,7 @@ Criar uma aplicação REST para **criar, listar, editar e excluir tarefas**, ide
 
 ## 🛠 Tecnologias Utilizadas
 - Java 17+
-- Spring Boot 3.x
+- Spring Boot 3.5.4
 - Spring Web
 - Validation 
 - Lombok 
