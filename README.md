@@ -1,2 +1,27 @@
-# Tarefas-Gerenciador-Java
-Sistema básico de gerenciamento de tarefas usando Java e Spring Boot
+# 📋 Tarefas-Gerenciador-Java
+
+Um sistema básico de gerenciamento de tarefas usando **Java** e **Spring Boot**, com armazenamento **em memória** (sem banco de dados).
+
+## 🚀 Objetivo
+Criar uma aplicação REST para **criar, listar, editar e excluir tarefas**, ideal para estudos e prática com APIs usando Java e Spring Boot.
+
+## 🛠 Tecnologias Utilizadas
+- Java 17+
+- Spring Boot 3.x
+- Spring Web
+- Validation (Jakarta)
+- Lombok (opcional, para reduzir boilerplate)
+
+## 📚 O que eu aprendi
+- Estruturação de um projeto Java com Spring Boot
+- Criação de endpoints REST
+- Uso de serviços para separar lógica de negócio
+- Validação de dados de entrada
+- Armazenamento em memória usando `List` e `AtomicLong`
+
+## ⚙️ Como Rodar o Projeto
+
+### 1️⃣ Clonar o repositório
+```bash
+git clone https://github.com/SEU_USUARIO/task-manager-java.git
+cd task-manager-java
