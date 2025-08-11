@@ -9,8 +9,8 @@ Criar uma aplicação REST para **criar, listar, editar e excluir tarefas**, ide
 - Java 17+
 - Spring Boot 3.x
 - Spring Web
-- Validation (Jakarta)
-- Lombok (opcional, para reduzir boilerplate)
+- Validation 
+- Lombok 
 
 ## 📚 O que eu aprendi
 - Estruturação de um projeto Java com Spring Boot
