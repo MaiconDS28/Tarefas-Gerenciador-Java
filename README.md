@@ -23,5 +23,5 @@ Criar uma aplicação REST para **criar, listar, editar e excluir tarefas**, ide
 
 ### 1️⃣ Clonar o repositório
 ```bash
-git clone https://github.com/SEU_USUARIO/task-manager-java.git
+git clone https://github.com/MaiconDS28/task-manager-java.git
 cd task-manager-java
